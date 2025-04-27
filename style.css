@@ -597,3 +597,18 @@ a.btn-link.text-light:after {
 	}
 }
 /* ============ mobile view .end// ============ */
+
+
+.Cheackout-form{
+  max-width: 600px;
+  margin: auto;
+  padding: 30px;
+  background-color: #E9DCB1;
+  border-radius: 10px;
+  font-weight: 700;
+  box-shadow: 3px 3px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.h1-tag1 {
+  text-align: center;
+}
