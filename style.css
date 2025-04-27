@@ -612,3 +612,23 @@ a.btn-link.text-light:after {
 .h1-tag1 {
   text-align: center;
 }
+
+.button-1{
+  font-size: 20px !important;
+  font-weight: 600;
+  background-color: #990016 !important;
+  color: white !important;
+  transition:0.3s ease;
+}
+
+.button-1:hover {
+  background-color: #F0B215 !important;
+  color: black !important;
+  font-weight: 600;
+  
+    }
+
+    .footer-part{
+      background-color:#FBD872 ;
+      padding: 60px 0;
+  }
